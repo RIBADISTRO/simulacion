@@ -1,0 +1,20 @@
+definicion de modelo
+definicion simultanes
+estapa simulacion
+componente de un sistema 
+	varibles
+	variables de estados
+	atributos
+	recorsos
+	procesos
+	recursuo
+	tiempo de simulacion
+	filas
+	eventos
+	Modelos estosteicatico
+	modelo deterministico estesticos
+	ejemplo de simulacion
+	tipo de simulacion
+	
+Formulacion de sistemas
+Formulacion de modelo
